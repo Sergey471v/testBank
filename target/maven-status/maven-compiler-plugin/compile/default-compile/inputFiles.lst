@@ -1,0 +1,9 @@
+D:\Sergey\work\TestBank\testBank\src\main\java\org\example\wallet\controller\WalletController.java
+D:\Sergey\work\TestBank\testBank\src\main\java\org\example\wallet\dto\WalletOperationRequest.java
+D:\Sergey\work\TestBank\testBank\src\main\java\org\example\wallet\exception\GlobalExceptionHandler.java
+D:\Sergey\work\TestBank\testBank\src\main\java\org\example\wallet\exception\InsufficientFundsException.java
+D:\Sergey\work\TestBank\testBank\src\main\java\org\example\wallet\exception\WalletNotFoundException.java
+D:\Sergey\work\TestBank\testBank\src\main\java\org\example\wallet\model\Wallet.java
+D:\Sergey\work\TestBank\testBank\src\main\java\org\example\wallet\repository\WalletRepository.java
+D:\Sergey\work\TestBank\testBank\src\main\java\org\example\wallet\service\WalletService.java
+D:\Sergey\work\TestBank\testBank\src\main\java\org\example\wallet\WalletApplication.java

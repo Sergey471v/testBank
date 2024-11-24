@@ -1,0 +1,9 @@
+org\example\wallet\service\WalletService.class
+org\example\wallet\exception\InsufficientFundsException.class
+org\example\wallet\model\Wallet.class
+org\example\wallet\exception\WalletNotFoundException.class
+org\example\wallet\dto\WalletOperationRequest.class
+org\example\wallet\WalletApplication.class
+org\example\wallet\exception\GlobalExceptionHandler.class
+org\example\wallet\controller\WalletController.class
+org\example\wallet\repository\WalletRepository.class
